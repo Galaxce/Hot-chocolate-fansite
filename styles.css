@@ -1,0 +1,27 @@
+
+/***************************************************TAG SELECTORS*************************************************/
+h1 {
+  color: #290001;
+  font-size: 150px;
+  text-shadow: #c87941 1px 0 10px
+  }
+
+
+body {
+  background-color: #dbcbbd;
+  border: solid #87431d;
+  font-family: cursive, georgia;
+  margin: 1em;
+  text-align: center;
+  }
+
+
+
+
+/***************************************************CLASS SELECTORS*************************************************/
+.carousel-item {
+  height: auto;
+  width: 100%;
+
+
+}
